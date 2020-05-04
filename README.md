@@ -1,1 +1,0 @@
-# kuas_app
